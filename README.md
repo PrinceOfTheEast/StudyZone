@@ -5,8 +5,6 @@ Numerous software applications are available on several platforms which aim to a
 
 [Deployment](https://github.com/PrinceOfTheEast/StudyZone/new/master#deployment)
 
-[Operation](https://github.com/PrinceOfTheEast/StudyZone/new/master#operation)
-
 [Built With](https://github.com/PrinceOfTheEast/StudyZone/new/master#built-with)
 
 [Author](https://github.com/PrinceOfTheEast/StudyZone/new/master#author)
