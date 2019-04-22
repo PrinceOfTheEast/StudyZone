@@ -11,7 +11,9 @@ Numerous software applications are available on several platforms which aim to a
 
 ## Prerequisites
 *Android Studio is required to be installed on the computer that will open this project for development
+
 *Login to the Firebase account used for the backend of the application is required
+
 *Emulator or smartphone used to deploy and test the application will need microphone permissions turned on
 
 ## Deployment
