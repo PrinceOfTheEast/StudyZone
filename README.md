@@ -4,7 +4,6 @@ Numerous software applications are available on several platforms which aim to a
 ## Table of Contents
 
 [Deployment](https://github.com/PrinceOfTheEast/StudyZone/tree/master#deployment)
-[Deployment](https://github.research.its.qmul.ac.uk/ec16227/comparechain/tree/master#deployment)
 
 [Built With](https://github.com/PrinceOfTheEast/StudyZone/tree/master#built-with)
 
@@ -13,6 +12,7 @@ Numerous software applications are available on several platforms which aim to a
 ## Prerequisites
 Android Studio is required to be installed on the computer that will open this project for development
 Login to the Firebase account used for the backend of the application is required
+Emulator or smartphone used to deploy and test the application will need microphone permissions turned on
 
 ## Deployment
 APK file is available in github repository
@@ -23,7 +23,7 @@ APK file is available in github repository
 
 *	Android Studio - Official integrated development environment for Google's Android operating system.
 
-## Authors
+## Author
 *	Masud Hasan Chowdhury
 
   
