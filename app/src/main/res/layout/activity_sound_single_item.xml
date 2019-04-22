@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvSoundName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Song name"
+        android:textSize="20sp"
+        android:textColor="#017628"/>
+
+    <TextView
+        android:id="@+id/tvArtist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Artist"
+        android:textSize="17sp"
+        android:layout_below="@+id/tvSoundName"
+        android:textColor="#7879ac"/>
+
+    <ImageView
+        android:id="@+id/ivPlaySound"
+        android:layout_width="45dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@id/ivPauseSound"
+        android:src="@drawable/ic_play"/>
+
+    <ImageView
+        android:id="@+id/ivPauseSound"
+        android:layout_width="45dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@id/ivStopSound"
+        android:src="@drawable/ic_pause"/>
+
+    <ImageView
+        android:id="@+id/ivStopSound"
+        android:layout_width="45dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/ic_stop"
+        android:layout_alignParentRight="true"/>
+    
+
+</RelativeLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="princeoftheeast.github.com.studyzone.UI.TimerActivity">
+
+    <EditText
+        android:id="@+id/etInputTime"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tvTimerCountdown"
+        android:layout_centerHorizontal="true"
+        android:hint="Minutes"
+        android:inputType="number"
+        android:maxLength="4"/>
+
+    <Button
+        android:id="@+id/btnSetTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/etInputTime"
+        android:layout_toRightOf="@+id/etInputTime"
+        android:text="set"
+        android:textColor="#03561a"/>
+
+
+    <android.support.v7.widget.AppCompatAutoCompleteTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTimerCountdown"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="00:00"
+        android:textColor="#03561a"
+        android:textSize="60sp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnStartPause"
+        android:layout_below="@+id/tvTimerCountdown"
+        android:layout_centerHorizontal="true"
+        android:text="start"
+        android:textColor="#03561a"/>
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTimerCountdown"
+        android:layout_toRightOf="@+id/btnStartPause"
+        android:layout_marginLeft="10dp"
+        android:text="reset"
+        android:textColor="#ff0004"
+        android:visibility="invisible"
+        tools:visibility="visible"/>
+
+    <TextView
+        android:id="@+id/tvTimerTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:textColor="#014915"
+        android:layout_marginTop="10dp"
+        android:text="Study Timer" />
+
+
+</RelativeLayout>

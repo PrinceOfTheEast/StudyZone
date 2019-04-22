@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StudyZone</string>
+
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Noise Level</item>
+        <item>Sounds</item>
+        <item>Timer</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Book your study sessions here! </item>
+        <item> Check the noise level before studying! </item>
+        <item> Choose from our selection </item>
+        <item> Time your sessions! </item>
+    </string-array>
+
+    <string-array name="wkly">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+        <item> Sunday </item>
+    </string-array>
+    <string name="title_activity_timer">TimerActivity</string>
+    <string name="title_activity_sound">SoundActivity</string>
+
+
+</resources>
