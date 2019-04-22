@@ -3,11 +3,12 @@ Numerous software applications are available on several platforms which aim to a
 
 ## Table of Contents
 
-[Deployment](https://github.com/PrinceOfTheEast/StudyZone/master#deployment)
+[Deployment](https://github.com/PrinceOfTheEast/StudyZone/tree/master#deployment)
+[Deployment](https://github.research.its.qmul.ac.uk/ec16227/comparechain/tree/master#deployment)
 
-[Built With](https://github.com/PrinceOfTheEast/StudyZone/master#built-with)
+[Built With](https://github.com/PrinceOfTheEast/StudyZone/tree/master#built-with)
 
-[Author](https://github.com/PrinceOfTheEast/StudyZone/master#author)
+[Author](https://github.com/PrinceOfTheEast/StudyZone/tree/master#author)
 
 ## Prerequisites
 Android Studio is required to be installed on the computer that will open this project for development
