@@ -3,7 +3,7 @@ Numerous software applications are available on several platforms which aim to a
 
 ## Table of Contents
 
-[Opening the Project](https://github.com/PrinceOfTheEast/StudyZone/tree/master#openingtheproject)
+[Opening the Project](https://github.com/PrinceOfTheEast/StudyZone/tree/master#opening-the-project)
 
 [Deployment](https://github.com/PrinceOfTheEast/StudyZone/tree/master#deployment)
 
