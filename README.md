@@ -1,7 +1,9 @@
-﻿# StudyZone
+# StudyZone
 Numerous software applications are available on several platforms which aim to aid students maximise their productivity when studying. They use known traditional techniques to provide features to accomplish this. These are generally used on smartphones due to its portability and convenience. However, most of these usually only specialise in single feature or two. Thus, students must use a combination of these applications to reach peak productivity. Hence, this outlined a clear opportunity for the development of an application which integrates all these common features as well as providing novel features based on research. StudyZone incorporates traditional features found on similar applications, but also includes novel elements such as a noise level measuerer. The released application runs on Android devices with an OS version 5.0 and above.
 
 ## Table of Contents
+
+[Opening the Project](https://github.com/PrinceOfTheEast/StudyZone/tree/master#openingtheproject)
 
 [Deployment](https://github.com/PrinceOfTheEast/StudyZone/tree/master#deployment)
 
@@ -12,14 +14,25 @@ Numerous software applications are available on several platforms which aim to a
 ## Prerequisites
 *Android Studio is required to be installed on the computer that will open this project for development
 
-*Login to the Firebase account used for the backend of the application is required
+*Emulator or smartphone used to deploy and test the application will need to be running Android 0S Version 5.0 and above
 
-*Emulator or smartphone used to deploy and test the application will need microphone permissions turned on
+*Microphone permissions need to be turned on in order to make full use of the application
+
+## Opening the Project
+1. Clone the GitHub Repository or download the files
+
+2. [Click me for Android Studio IDE installation instructions](https://developer.android.com/studio/install)
+
+3. Open project via Android Studio
 
 ## Deployment
-APK file is available in github repository
+1. Download the APK file which is available on the repository to your Android device
 
-[Click me for deployment instructions](https://www.androidcentral.com/android-apps-install/)
+2. Go to settings and enable allow unknown sources 
+
+3. Click on the APK file to initiate the installation
+
+[Click me for installation instructions](https://www.androidcentral.com/android-apps-install/)
 
 ## Built With
 
