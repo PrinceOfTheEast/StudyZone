@@ -12,7 +12,7 @@ Numerous software applications are available on several platforms which aim to a
 [Author](https://github.com/PrinceOfTheEast/StudyZone/tree/master#author)
 
 ## Prerequisites
-*Android Studio is required to be installed on the computer that will open this project for development
+*Android Studio is required to be installed and set up 
 
 *Emulator or smartphone used to deploy and test the application will need to be running Android 0S Version 5.0 and above
 
@@ -24,6 +24,23 @@ Numerous software applications are available on several platforms which aim to a
 2. [Click me for Android Studio IDE installation instructions](https://developer.android.com/studio/install)
 
 3. Open project via Android Studio
+
+## Running the application 
+1. Connect Android device to the PC via USB
+
+  1a. On the smartphone device go to settings
+
+  1b. About Phone
+
+  1c. Tap Android build several times
+
+  1d. Go to developer options
+
+  1e. Enable USB Debugging
+
+2. Press the play icon on the top right on Android Studio
+
+3. Choose either your connected Android device or a virtual phone
 
 ## Deployment
 1. Download the APK file which is available on the repository to your Android device
