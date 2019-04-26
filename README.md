@@ -14,11 +14,11 @@ Numerous software applications are available on several platforms which aim to a
 [Author](https://github.com/PrinceOfTheEast/StudyZone/tree/master#author)
 
 ## Prerequisites
-*Android Studio is required to be installed and set up 
+* Android Studio is required to be installed and set up 
 
-*Emulator or smartphone used to deploy and test the application will need to be running Android 0S Version 5.0 and above
+* Emulator or smartphone used to deploy and test the application will need to be running Android 0S Version 5.0 and above
 
-*Microphone permissions need to be turned on in order to make full use of the application
+* Microphone permissions need to be turned on in order to make full use of the application
 
 ## Opening the Project
 1. Clone the GitHub Repository or download the files
@@ -30,15 +30,15 @@ Numerous software applications are available on several platforms which aim to a
 ## Running the application 
 1. Connect Android device to the PC via USB
 
-<space><space>1a. On the smartphone device go to settings
+  + 1a. On the smartphone device go to settings
 
-<space><space>1b. About Phone
+  + 1b. About Phone
 
-<space><space>1c. Tap Android build several times
+  + 1c. Tap Android build several times
 
-<space><space>1d. Go to developer options
+  + 1d. Go to developer options
 
-<space><space>1e. Enable USB Debugging
+  + 1e. Enable USB Debugging
 
 2. Press the play icon on the top right on Android Studio
 
