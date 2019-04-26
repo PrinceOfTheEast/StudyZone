@@ -30,15 +30,15 @@ Numerous software applications are available on several platforms which aim to a
 ## Running the application 
 1. Connect Android device to the PC via USB
 
-  + 1a. On the smartphone device go to settings
+> 1a. On the smartphone device go to settings
 
-  + 1b. About Phone
+> 1b. About Phone
 
-  + 1c. Tap Android build several times
+> 1c. Tap Android build several times
 
-  + 1d. Go to developer options
+> 1d. Go to developer options
 
-  + 1e. Enable USB Debugging
+> 1e. Enable USB Debugging
 
 2. Press the play icon on the top right on Android Studio
 
