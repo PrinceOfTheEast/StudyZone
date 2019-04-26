@@ -5,6 +5,8 @@ Numerous software applications are available on several platforms which aim to a
 
 [Opening the Project](https://github.com/PrinceOfTheEast/StudyZone/tree/master#opening-the-project)
 
+[Running the application](https://github.com/PrinceOfTheEast/StudyZone/tree/master#running-the-application)
+
 [Deployment](https://github.com/PrinceOfTheEast/StudyZone/tree/master#deployment)
 
 [Built With](https://github.com/PrinceOfTheEast/StudyZone/tree/master#built-with)
@@ -28,15 +30,15 @@ Numerous software applications are available on several platforms which aim to a
 ## Running the application 
 1. Connect Android device to the PC via USB
 
-  1a. On the smartphone device go to settings
+&nbsp;1a. On the smartphone device go to settings
 
-  1b. About Phone
+&nbsp;1b. About Phone
 
-  1c. Tap Android build several times
+&nbsp;1c. Tap Android build several times
 
-  1d. Go to developer options
+&nbsp;1d. Go to developer options
 
-  1e. Enable USB Debugging
+&nbsp;1e. Enable USB Debugging
 
 2. Press the play icon on the top right on Android Studio
 
